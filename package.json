@@ -1,0 +1,16 @@
+{
+  "name": "digital_innovation_one",
+  "version": "1.0.0",
+  "description": "Chabot Fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubens Lemos",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "youtube-node": "^1.3.3"
+  }
+}
